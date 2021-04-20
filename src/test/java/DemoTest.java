@@ -23,5 +23,6 @@ public class DemoTest {
         System.out.println(travelHomePage.getNavigationBar().getLinks().size());
         System.out.println(travelHomePage.getFooterNav().getLinks().size());
         driver.quit();
+        //Newly added comment
     }
 }
