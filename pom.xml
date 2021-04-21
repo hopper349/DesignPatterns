@@ -6,7 +6,7 @@
 
     <groupId>org.dipanshusaini</groupId>
     <artifactId>DesignPatterns</artifactId>
-    <version>2.2-SNAPSHOT</version>
+    <version>2.3-SNAPSHOT</version>
     <dependencies>
         <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
         <dependency>
